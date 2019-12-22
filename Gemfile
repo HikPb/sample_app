@@ -15,6 +15,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 gem 'carrierwave',             '1.2.2'
 gem 'mini_magick',             '4.7.0'
 gem 'fog'
+gem 'fog-core', '1.45.0'
 # Bootstrap sass
 gem 'bootstrap-sass', '3.3.7'
 # Use Puma as the app server
